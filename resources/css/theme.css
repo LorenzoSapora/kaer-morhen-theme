@@ -1,0 +1,24 @@
+:root {
+  --primary: rgba(130,198,99, 1); /*#e3e8ee*/
+  --primary-dark: rgba(130,198,99, 1);
+  --primary-70: rgba(130,198,99, 1);
+  --primary-50: rgba(130,198,99, 1);
+  --primary-30: rgba(130,198,99, 1);
+  --primary-10: rgba(130,198,99, 1);
+  --logo: #222;
+  --sidebar-icon: rgba(130,198,99, 1);
+}
+
+.bg-grad-sidebar {
+  background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    from(#202226),
+    to(#ffffff)
+  );
+
+  background-image: linear-gradient(0deg, #202226, #202226);
+}
+#nova .flex .content{background:#e3e8ee!important;}
+.globalsearch{max-width:calc(100% - 100px)}
