@@ -22,3 +22,4 @@
 }
 #nova .flex .content{background:#e3e8ee!important;}
 .globalsearch{max-width:calc(100% - 100px)}
+trix-toolbar .trix-button-group--file-tools{display:none}
