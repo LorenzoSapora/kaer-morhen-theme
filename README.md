@@ -11,7 +11,7 @@ composer require terminalsio/kaer-morhen-theme
 
 ## Security
 
-If you discover any security related issues (heh), please email team@evolve-pr.com
+If you discover any security related issues (heh), please email security@terminals.io
 
 ## Contributing
 
